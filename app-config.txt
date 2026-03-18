@@ -1,3 +1,3 @@
 App Configuration
-Default theme: light
-Max users on leaderboard: 50
+Default theme: dark
+Max users on leaderboard: 100
